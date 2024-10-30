@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi
 goodmorning
+=======
+hiii 
+good morining
+>>>>>>> 80a700112013f637d5d46a8da236e193347652e2
